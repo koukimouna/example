@@ -2,7 +2,7 @@
 
 this is a simple read me file.
 * first
-*second
+* second
 
 ## link example
 [Google](www.google.com)
